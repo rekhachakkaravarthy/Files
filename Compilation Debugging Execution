@@ -1,5 +1,15 @@
 ## Compilation
 
+Compiler can detect the following types of errors:
+
+*Syntax errors  (semi-colon missing or use of a reserved keyword (such as 'class')).
+*When we try to access a variable that is not in scope, for Ex.: trying to access to private fields in other classes.
+   ........
+Compiler, which generates a message indicating the type of error and the position in the source file where the error occurred
+   
+If the compiler detects any errors during compilation it will fail to build a new class file in Java.
+
+
 
 
 
