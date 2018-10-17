@@ -1,2 +1,5 @@
 Create a java code to read the data from the file.  you can use any data structures to access the content in the file. 
 compare the compliation and execution time in the java code which you have created to access the data  
+
+Please use the data structures like arraylist , bufferedreader , hashset , datareader etc in your java code and compare with the 
+execution and compilation time and explain which is best. 
