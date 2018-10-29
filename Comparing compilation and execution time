@@ -3,3 +3,13 @@ compare the compliation and execution time in the java code which you have creat
 
 Please use the data structures like arraylist , bufferedreader , hashset , datareader etc in your java code and compare with the 
 execution and compilation time and explain which is best. 
+
+
+Answer) datago.java
+
+Output:
+
+37 milli seconds file reader
+93 milli seconds file inputstream
+68 milli seconds scanner
+3 milli seconds Bufferedreader
